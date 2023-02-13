@@ -1,4 +1,4 @@
-const SAMPLE_PRDDUCTS = [
+export const SAMPLE_PRDDUCTS = [
     {
     id: 'p1',
     price:126,
